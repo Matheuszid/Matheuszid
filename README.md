@@ -32,7 +32,7 @@ Apaixonado por tecnologia e atualmente focado em **programação** e **análise 
 
 ## 📈 GitHub Stats
 
-![Seu Nome's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuszid&show_icons=true&theme=tokyonight)
+![Seu Nome's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dracula&show_icons=true&theme=tokyonight)
 
 
 ## 📫 Onde me encontrar:
