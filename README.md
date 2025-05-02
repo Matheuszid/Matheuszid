@@ -30,6 +30,9 @@ Apaixonado por tecnologia e atualmente focado em **programação** e **análise 
 ![Firebase Hosting](https://img.shields.io/badge/-Firebase%20Hosting-black?style=flat-square&logo=firebase)
 ![Firebase Database](https://img.shields.io/badge/-Firebase%20Database-black?style=flat-square&logo=firebase)
 
+## 📈 GitHub Stats
+
+![Seu Nome's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuszido&show_icons=true&theme=tokyonight)
 
 
 ## 📫 Onde me encontrar:
