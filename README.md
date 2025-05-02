@@ -29,6 +29,7 @@ Apaixonado por tecnologia e atualmente focado em **programação** e **análise 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Firebase Hosting](https://img.shields.io/badge/-Firebase%20Hosting-black?style=flat-square&logo=firebase)
 ![Firebase Database](https://img.shields.io/badge/-Firebase%20Database-black?style=flat-square&logo=firebase)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 
 ## 📈 GitHub Stats
 
