@@ -8,6 +8,7 @@ Apaixonado por tecnologia e atualmente focado em **programação** e **análise 
 - 🗄️ SQL (PostgreSQL | MySQL | Firebird)
 - 🗄️ NOSQL(Firebase | MongoDB)
 - 📊 Power BI
+- ☁️ Firebase (Hosting & Realtime Database)
 
 ## 💡 Projetos em andamento:
 
@@ -26,6 +27,8 @@ Apaixonado por tecnologia e atualmente focado em **programação** e **análise 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=power-bi)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Firebase Hosting](https://img.shields.io/badge/-Firebase%20Hosting-black?style=flat-square&logo=firebase)
+![Firebase Database](https://img.shields.io/badge/-Firebase%20Database-black?style=flat-square&logo=firebase)
 
 
 
