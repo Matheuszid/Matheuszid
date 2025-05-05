@@ -12,10 +12,9 @@ Apaixonado por tecnologia e atualmente focado em **programação** e **análise 
 
 ## 💡 Projetos em andamento:
 
-- Plataforma de chamados de suporte web
-- Dashboard interativo de vendas com Power BI
-- Site para loja online de roupas streetwear
-- CRUD de cadastro de clientes com React + Firebase
+- Plataforma para postar meus projetos solos / prototipos
+- Sistema de gerenciamento de fardos de madeira com integração a ERP(PRIV)
+
 
 ## 🔧 Tecnologias e Ferramentas
 
